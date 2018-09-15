@@ -2,7 +2,7 @@ package com.irozon.alertsample;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.view.View;
 import android.widget.Toast;
 
@@ -16,7 +16,7 @@ import com.irozon.alertview.AlertView;
  * Created by hammad.akram on 3/14/18.
  */
 
-public class Main2Activity extends AppCompatActivity {
+public class Main2Activity extends Activity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
