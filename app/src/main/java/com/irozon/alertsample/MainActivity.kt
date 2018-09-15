@@ -1,13 +1,13 @@
 package com.irozon.alertsample
 
-import android.support.v7.app.AppCompatActivity
+import android.app.Activity
 import android.os.Bundle
 import android.widget.Toast
 import com.irozon.alertview.*
 import com.irozon.alertview.objects.AlertAction
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
