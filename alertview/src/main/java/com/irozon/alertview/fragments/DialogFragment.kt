@@ -3,7 +3,7 @@ package com.irozon.alertview.fragments
 import android.annotation.SuppressLint
 import android.os.Bundle
 import android.support.design.widget.BottomSheetDialogFragment
-import android.support.v4.app.DialogFragment
+import android.app.DialogFragment
 import android.support.v4.content.ContextCompat
 import android.view.LayoutInflater
 import android.view.View
